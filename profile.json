@@ -1,8 +1,8 @@
 {
-  "name": "EHAA 2606",
+  "name": "EHAA",
   "id": "d1d3031a-d853-4d71-ba68-a793561e2a5a",
   "updateUrl": "https://raw.githubusercontent.com/DutchVACC/vatis/refs/heads/main/profile.json",
-  "updateSerial": 2026130802,
+  "updateSerial": 2026130803,
   "stations": [
     {
       "id": "487cea6f-02dd-487b-9914-2ed95b0c655c",
