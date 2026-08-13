@@ -1,8 +1,8 @@
 {
-  "name": "EHAA",
+  "name": "EHAA 2606",
   "id": "d1d3031a-d853-4d71-ba68-a793561e2a5a",
   "updateUrl": "https://raw.githubusercontent.com/DutchVACC/vatis/refs/heads/main/profile.json",
-  "updateSerial": 2026130801,
+  "updateSerial": 2026130802,
   "stations": [
     {
       "id": "487cea6f-02dd-487b-9914-2ed95b0c655c",
@@ -12119,8 +12119,8 @@
       "name": "Schiphol",
       "atisType": "Departure",
       "codeRange": {
-        "low": "A",
-        "high": "M"
+        "low": "N",
+        "high": "Z"
       },
       "atisFormat": {
         "observationTime": {
@@ -15711,8 +15711,8 @@
       "name": "Schiphol",
       "atisType": "Arrival",
       "codeRange": {
-        "low": "N",
-        "high": "Z"
+        "low": "A",
+        "high": "M"
       },
       "atisFormat": {
         "observationTime": {
@@ -19210,7 +19210,7 @@
         {
           "text": "EXP RNP APCH",
           "ordinal": 4,
-          "enabled": true
+          "enabled": false
         },
         {
           "text": "EXP SRA APCH",
