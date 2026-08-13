@@ -2,6 +2,6 @@
   "name": "EHAA",
   "id": "d1d3031a-d853-4d71-ba68-a793561e2a5a",
   "updateUrl": "https://raw.githubusercontent.com/DutchVACC/vatis/refs/heads/main/profile.json",
-  "updateSerial": 2026130801,
-  "stations": []
+  "updateSerial": 2000010101,
+  "stations": {}
 }
